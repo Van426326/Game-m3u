@@ -1,30 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201710/28/10/5e604ad7e7d66a0512db7a452ce3cdfd_middle.jpg",叶音符
 https://iptv.akri.top/douyu/12313
-#EXTINF:-1 group-title="英雄联盟" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/7adb3339a74b4b34a13e971be2d192d8_middle.jpg",jjking剑姬
-https://iptv.akri.top/douyu/7180846
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/7c383edfd9a341fd80c6be0508baadf5_middle.jpg",放逐大帝灬
 https://iptv.akri.top/douyu/5377721
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://ts1.cn.mm.bing.net/th?id=ODLS.aa9857f5-2bec-49e8-9fe1-8617c5e97550&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",王纪超
 https://iptv.akri.top/douyu/3567314
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://ts1.cn.mm.bing.net/th?id=ODLS.aa9857f5-2bec-49e8-9fe1-8617c5e97550&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",impOUO
 https://iptv.akri.top/douyu/522387
-#EXTINF:-1 group-title="英雄联盟" tvg-logo="https://ts4.cn.mm.bing.net/th?id=ODLS.05126e59-d413-4665-8707-f037006d4b96&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",Zz1tai姿态
-https://iptv.akri.top/huya/333003
-#EXTINF:-1 group-title="英雄联盟" tvg-logo="https://ts4.cn.mm.bing.net/th?id=ODLS.05126e59-d413-4665-8707-f037006d4b96&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",张嘉文
-https://iptv.akri.top/huya/zhangjiawen
-#EXTINF:-1 group-title="英雄联盟" tvg-logo="https://ts4.cn.mm.bing.net/th?id=ODLS.05126e59-d413-4665-8707-f037006d4b96&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",Rookie
-https://iptv.akri.top/huya/970311
-#EXTINF:-1 group-title="英雄联盟" tvg-logo="https://i0.hdslb.com/bfs/face/9eb62c27dd7dacc0ea57a725507c4b1f1f02bfa3.jpg",阳光男孩小丑熊
-https://iptv.akri.top/bilibili/22907643
-#EXTINF:-1 group-title="DNF" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201904/e1e0ab1a0e194c14bf568b2d50f57e16_middle.jpg",DNF白手温柔
-https://iptv.akri.top/douyu/5303276
-#EXTINF:-1 group-title="DNF" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201906/1327dd86b1e64f67b27e78875af1acc8_middle.jpg",红眼小奎
-https://iptv.akri.top/douyu/3736158
-#EXTINF:-1 group-title="DNF" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/13e13ba796db424eb29320b92849203f_middle.jpg",大枪炮狗
-https://iptv.akri.top/douyu/5029350
-#EXTINF:-1 group-title="DNF" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/5ce84e8faff044fca8380df0fb8f24c7_middle.jpg",红眼啊嘟嘟
-https://iptv.akri.top/douyu/6208622
 #EXTINF:-1 group-title="DNF" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201806/dcf934838aefc6042e22dcd9e27cb776_big.jpg",武神59
 https://iptv.akri.top/douyu/5168755
 #EXTINF:-1 group-title="DNF" tvg-logo="https://ts1.cn.mm.bing.net/th?id=ODLS.aa9857f5-2bec-49e8-9fe1-8617c5e97550&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",野马阿发
@@ -45,5 +27,9 @@ https://iptv.akri.top/douyin/10272500545
 https://iptv.akri.top/douyin/292171362650
 #EXTINF:-1 group-title="DNF" tvg-logo="https://ts3.cn.mm.bing.net/th?id=ODLS.9ac2eadf-4675-4260-8bb4-a1a2ba9c8537&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",剑魔白羽
 https://iptv.akri.top/douyin/147883738047
+#EXTINF:-1 group-title="DNF" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_oskfkACsEjeDCKAQPNNq3I9RySApUzBxWAhgAA.jpeg?from=3067671334",漫游糊涂仙
+https://iptv.akri.top/douyin/621050798339
+#EXTINF:-1 group-title="电影" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_da2ee7c366382cd8f4ae64dbc0e5dced.jpeg?from=3067671334",CCTV6
+https://iptv.akri.top/douyin/208823316033
 #EXTINF:-1 group-title="炉石传说" tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201605/18/22f0631caf6f62bd3ce7aea2a6b31723_big.jpg",啦啦啦不是狗狗狗
 https://iptv.akri.top/douyu/633019
