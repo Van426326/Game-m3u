@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="英雄联盟" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202403/25931e518b9e49529b5c53cf597663e4_big.jpg",LPL
+https://iptv.akri.top/douyu/288016
+#EXTM3U
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201710/28/10/5e604ad7e7d66a0512db7a452ce3cdfd_middle.jpg",叶音符
 https://iptv.akri.top/douyu/12313
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/7c383edfd9a341fd80c6be0508baadf5_middle.jpg",放逐大帝灬
@@ -33,6 +36,14 @@ https://iptv.akri.top/douyin/621050798339
 https://iptv.akri.top/douyin/245473414479
 #EXTINF:-1 group-title="电影" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_da2ee7c366382cd8f4ae64dbc0e5dced.jpeg?from=3067671334",CCTV6
 https://iptv.akri.top/douyin/208823316033
+#EXTINF:-1 group-title="电影" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/f063e9e3e018455ea084228c7510cb70_big.jpg",周星驰
+https://iptv.akri.top/douyu/122402
+#EXTINF:-1 group-title="电影" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201701/22/12/a0dbeb1ed6571326fe7bf837a44bfdb8_big.jpg",恐怖
+https://iptv.akri.top/douyu/96577
+#EXTINF:-1 group-title="电影" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202109/4b690c611a944165bd43ba85b494dba0_big.jpg",僵尸
+https://iptv.akri.top/douyu/310926
+#EXTINF:-1 group-title="电影" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201711/08/18/acd735bbe5d2f6a7875cce5a910d3101_big.jpg",特辑
+https://iptv.akri.top/douyu/3637778
 #EXTINF:-1 group-title="狼人杀" tvg-logo="https://p6.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_oUNCoSKABJAzJAMtAAAe7btnAKAfBMhygEsIkd.jpeg?from=3067671334",老天天狼人杀
 https://iptv.akri.top/douyin/136047875227
 #EXTINF:-1 group-title="狼人杀" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_oMqrDfzBeAA0RIAuGthExNCARASgtEAqVyt1CC.jpeg?from=3067671334",迷雾之夜狼人杀
