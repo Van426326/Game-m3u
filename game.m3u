@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202403/25931e518b9e49529b5c53cf597663e4_big.jpg",LPL
 https://iptv.akri.top/douyu/288016
-#EXTM3U
+#EXTINF:-1 group-title="英雄联盟" tvg-logo="https://yt3.ggpht.com/uQV6b8pImIq8q5UNJRb455UDc1iDItLyUcC5ccZUfVfGZNk759lOYFMHyLineBONVmLXpXVN=s48-c-k-c0x00ffffff-no-rj",LCK
+https://iptv.akri.top/youtube/5zBuPUxTzPI
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201710/28/10/5e604ad7e7d66a0512db7a452ce3cdfd_middle.jpg",叶音符
 https://iptv.akri.top/douyu/12313
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/7c383edfd9a341fd80c6be0508baadf5_middle.jpg",放逐大帝灬
