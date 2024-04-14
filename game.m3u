@@ -3,6 +3,10 @@
 https://iptv.akri.top/douyu/288016
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://yt3.ggpht.com/uQV6b8pImIq8q5UNJRb455UDc1iDItLyUcC5ccZUfVfGZNk759lOYFMHyLineBONVmLXpXVN=s48-c-k-c0x00ffffff-no-rj",LCK
 https://iptv.akri.top/youtube/5zBuPUxTzPI
+#EXTINF:-1 group-title="英雄联盟" tvg-logo="https://huyaimg.msstatic.com/avatar/1076/84/3eb4c9c4877fc675df448a78bd768f_180_135.jpg?1549028836&475859",姿态
+https://iptv.akri.top/huya/333003?cdn=alicdn
+#EXTINF:-1 group-title="英雄联盟" tvg-logo="https://huyaimg.msstatic.com/avatar/1048/57/c520ca01e7a02975e7e5d96f432cff_180_135.jpg?1683371602&475859",UZI
+https://iptv.akri.top/huya/uzi?cdn=alicdn
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201710/28/10/5e604ad7e7d66a0512db7a452ce3cdfd_middle.jpg",叶音符
 https://iptv.akri.top/douyu/12313
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/7c383edfd9a341fd80c6be0508baadf5_middle.jpg",放逐大帝灬
@@ -16,7 +20,9 @@ https://iptv.akri.top/douyu/5168755
 #EXTINF:-1 group-title="DNF" tvg-logo="https://ts1.cn.mm.bing.net/th?id=ODLS.aa9857f5-2bec-49e8-9fe1-8617c5e97550&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",野马阿发
 https://iptv.akri.top/douyu/533175
 #EXTINF:-1 group-title="DNF" tvg-logo="https://ts4.cn.mm.bing.net/th?id=ODLS.05126e59-d413-4665-8707-f037006d4b96&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",仇冬生
-https://iptv.akri.top/huya/bugqiu
+https://iptv.akri.top/huya/bugqiu?cdn=alicdn
+#EXTINF:-1 group-title="DNF" tvg-logo="https://huyaimg.msstatic.com/avatar/1068/44/750a8a1e6fc2fb7934abc9ce8527d6_180_135.jpg?1530324576&475859",堕落
+https://iptv.akri.top/huya/532079?cdn=alicdn
 #EXTINF:-1 group-title="DNF" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_9db0dde3badd331462059a4322c86b5e.jpeg",红眼阿旺
 https://iptv.akri.top/douyin/14759861745
 #EXTINF:-1 group-title="DNF" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_5ede69d075c440108050ae82c8be9e05.jpeg",马区（跳X王）
@@ -51,5 +57,11 @@ https://iptv.akri.top/douyin/136047875227
 https://iptv.akri.top/douyin/410804968505
 #EXTINF:-1 group-title="狼人杀" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_7693ab01af024a02ea766070ecd54349.jpeg?from=3067671334",华山论剑狼人杀
 https://iptv.akri.top/douyin/708363794392
+#EXTINF:-1 group-title="狼人杀" tvg-logo="https://huyaimg.msstatic.com/avatar/1055/73/1337bd6a67994e337f709f409cbf74_180_135.jpg?1511751164&475859",GODLIE
+https://iptv.akri.top/huya/14342778?cdn=alicdn
 #EXTINF:-1 group-title="炉石传说" tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201605/18/22f0631caf6f62bd3ce7aea2a6b31723_big.jpg",啦啦啦不是狗狗狗
 https://iptv.akri.top/douyu/633019
+#EXTINF:-1 group-title="炉石传说" tvg-logo="https://huyaimg.msstatic.com/avatar/1019/ee/ffabf13c4cc3effa9398c2859ac9c8_180_135.jpg?1640700311&475859",瓦莉拉
+https://iptv.akri.top/huya/100270?cdn=alicdn
+
+
