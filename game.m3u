@@ -1,95 +1,89 @@
 #EXTM3U
 #EXTINF:-1 group-title="黑悟空" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_4497861abd3c689bd3c489e74f5cbe49.jpeg?from=3067671334",六晓
-https://iptv.akri.top/douyin/108335413560
+http://192.168.2.170:35455/douyin/108335413560
 #EXTINF:-1 group-title="黑悟空" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_cb7e22db02ac00d8d051313639b41a7d.jpeg?from=3067671334",杨齐家
-https://iptv.akri.top/douyin/807401937068
+http://192.168.2.170:35455/douyin/807401937068
 #EXTINF:-1 group-title="黑悟空" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_155790c231bcad04636ca8358cb6a75c.jpeg?from=3067671334",骚男
-https://iptv.akri.top/douyin/421527298234
+http://192.168.2.170:35455/douyin/421527298234
 #EXTINF:-1 group-title="黑悟空" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_6c417f1c7a3f2f33dfa2e3167b2042cd.jpeg?from=3067671334",小白杨
-https://iptv.akri.top/douyin/181345413260
+http://192.168.2.170:35455/douyin/181345413260
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202403/25931e518b9e49529b5c53cf597663e4_big.jpg",LPL
-https://iptv.akri.top/douyu/288016
+http://192.168.2.170:35455/douyu/288016
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://yt3.ggpht.com/uQV6b8pImIq8q5UNJRb455UDc1iDItLyUcC5ccZUfVfGZNk759lOYFMHyLineBONVmLXpXVN=s48-c-k-c0x00ffffff-no-rj",LCK
-https://iptv.akri.top/youtube/5zBuPUxTzPI
+http://192.168.2.170:35455/youtube/5zBuPUxTzPI
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://huyaimg.msstatic.com/avatar/1076/84/3eb4c9c4877fc675df448a78bd768f_180_135.jpg?1549028836&475859",姿态
-https://iptv.akri.top/huya/333003?cdn=alicdn
+http://192.168.2.170:35455/huya/333003?cdn=alicdn
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://huyaimg.msstatic.com/avatar/1048/57/c520ca01e7a02975e7e5d96f432cff_180_135.jpg?1683371602&475859",UZI
-https://iptv.akri.top/huya/uzi?cdn=alicdn
+http://192.168.2.170:35455/huya/uzi?cdn=alicdn
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201710/28/10/5e604ad7e7d66a0512db7a452ce3cdfd_middle.jpg",叶音符
-https://iptv.akri.top/douyu/12313
+http://192.168.2.170:35455/douyu/12313
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/7c383edfd9a341fd80c6be0508baadf5_middle.jpg",放逐大帝灬
-https://iptv.akri.top/douyu/5377721
+http://192.168.2.170:35455/douyu/5377721
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://ts1.cn.mm.bing.net/th?id=ODLS.aa9857f5-2bec-49e8-9fe1-8617c5e97550&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",王纪超
-https://iptv.akri.top/douyu/3567314
+http://192.168.2.170:35455/douyu/3567314
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://ts1.cn.mm.bing.net/th?id=ODLS.aa9857f5-2bec-49e8-9fe1-8617c5e97550&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",impOUO
-https://iptv.akri.top/douyu/522387
+http://192.168.2.170:35455/douyu/522387
 #EXTINF:-1 group-title="DNF" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201806/dcf934838aefc6042e22dcd9e27cb776_big.jpg",武神59
-https://iptv.akri.top/douyu/5168755
+http://192.168.2.170:35455/douyu/5168755
 #EXTINF:-1 group-title="DNF" tvg-logo="https://ts1.cn.mm.bing.net/th?id=ODLS.aa9857f5-2bec-49e8-9fe1-8617c5e97550&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",野马阿发
-https://iptv.akri.top/douyu/533175
+http://192.168.2.170:35455/douyu/533175
 #EXTINF:-1 group-title="DNF" tvg-logo="https://ts4.cn.mm.bing.net/th?id=ODLS.05126e59-d413-4665-8707-f037006d4b96&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",仇冬生
-https://iptv.akri.top/huya/bugqiu?cdn=alicdn
+http://192.168.2.170:35455/huya/bugqiu?cdn=alicdn
 #EXTINF:-1 group-title="DNF" tvg-logo="https://huyaimg.msstatic.com/avatar/1068/44/750a8a1e6fc2fb7934abc9ce8527d6_180_135.jpg?1530324576&475859",堕落
-https://iptv.akri.top/huya/532079?cdn=alicdn
+http://192.168.2.170:35455/huya/532079?cdn=alicdn
 #EXTINF:-1 group-title="DNF" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_9db0dde3badd331462059a4322c86b5e.jpeg",红眼阿旺
-https://iptv.akri.top/douyin/14759861745
+http://192.168.2.170:35455/douyin/14759861745
 #EXTINF:-1 group-title="DNF" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_5ede69d075c440108050ae82c8be9e05.jpeg",马区（跳X王）
-https://iptv.akri.top/douyin/681873301247
+http://192.168.2.170:35455/douyin/681873301247
 #EXTINF:-1 group-title="DNF" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_67c92a3df003f9d85a2e1086498033d3.jpeg?from=3067671334",温柔
-https://iptv.akri.top/douyin/117186899183
+http://192.168.2.170:35455/douyin/117186899183
 #EXTINF:-1 group-title="DNF" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_15e0754fe54b43aa877fae8fa5606477.jpeg",蓝拳肉肉拳
-https://iptv.akri.top/douyin/19439956372
+http://192.168.2.170:35455/douyin/19439956372
 #EXTINF:-1 group-title="DNF" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_9ba10007be2bbe60ac4e.jpeg?from=3067671334",李永
-https://iptv.akri.top/douyin/521739537052
+http://192.168.2.170:35455/douyin/521739537052
 #EXTINF:-1 group-title="DNF" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_015c07f82bcb526df7f275fca82be0b2.jpeg?from=3067671334",炮妹
-https://iptv.akri.top/douyin/636574749544
+http://192.168.2.170:35455/douyin/636574749544
 #EXTINF:-1 group-title="DNF" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_okK67LAIeDcDB0d8BAIAeZCbuK7AMeEnATEE1t.jpeg?from=3067671334",小奎
-https://iptv.akri.top/douyin/962007250633
+http://192.168.2.170:35455/douyin/962007250633
 #EXTINF:-1 group-title="DNF" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_023818f1ea1fff3d3ae831eab906bf8d.jpeg?from=3067671334",kiss欢
-https://iptv.akri.top/douyin/664687086316
+http://192.168.2.170:35455/douyin/664687086316
 #EXTINF:-1 group-title="DNF" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_oQfMmAkygAI7A1zAhOK2AexCDdGtI0jAAuQgEz.jpeg?from=3067671334",阿越
-https://iptv.akri.top/douyin/228183690490
+http://192.168.2.170:35455/douyin/228183690490
 #EXTINF:-1 group-title="DNF" tvg-logo="https://ts3.cn.mm.bing.net/th?id=ODLS.9ac2eadf-4675-4260-8bb4-a1a2ba9c8537&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",红眼柚子
-https://iptv.akri.top/douyin/338068373467
+http://192.168.2.170:35455/douyin/338068373467
 #EXTINF:-1 group-title="DNF" tvg-logo="https://ts3.cn.mm.bing.net/th?id=ODLS.9ac2eadf-4675-4260-8bb4-a1a2ba9c8537&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",夏法
-https://iptv.akri.top/douyin/10272500545
+http://192.168.2.170:35455/douyin/10272500545
 #EXTINF:-1 group-title="DNF" tvg-logo="https://ts3.cn.mm.bing.net/th?id=ODLS.9ac2eadf-4675-4260-8bb4-a1a2ba9c8537&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",夜风
-https://iptv.akri.top/douyin/292171362650
+http://192.168.2.170:35455/douyin/292171362650
 #EXTINF:-1 group-title="DNF" tvg-logo="https://ts3.cn.mm.bing.net/th?id=ODLS.9ac2eadf-4675-4260-8bb4-a1a2ba9c8537&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",剑魔白羽
-https://iptv.akri.top/douyin/147883738047
+http://192.168.2.170:35455/douyin/147883738047
 #EXTINF:-1 group-title="DNF" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_oskfkACsEjeDCKAQPNNq3I9RySApUzBxWAhgAA.jpeg?from=3067671334",漫游糊涂仙
-https://iptv.akri.top/douyin/621050798339
+http://192.168.2.170:35455/douyin/621050798339
 #EXTINF:-1 group-title="DNF" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_7765911c826640d288e8c961fcc0911c.jpeg?from=3067671334",逍遥子
-https://iptv.akri.top/douyin/245473414479
+http://192.168.2.170:35455/douyin/245473414479
 #EXTINF:-1 group-title="麻将" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_36c0632ccfc9ada8aef3437e5d9c39d9.jpeg?from=3067671334",CEST
-https://iptv.akri.top/douyin/23070866597
+http://192.168.2.170:35455/douyin/23070866597
 #EXTINF:-1 group-title="电影" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_da2ee7c366382cd8f4ae64dbc0e5dced.jpeg?from=3067671334",CCTV6
-https://iptv.akri.top/douyin/208823316033
+http://192.168.2.170:35455/douyin/208823316033
 #EXTINF:-1 group-title="电影" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/f063e9e3e018455ea084228c7510cb70_big.jpg",周星驰
-https://iptv.akri.top/douyu/122402
+http://192.168.2.170:35455/douyu/122402
 #EXTINF:-1 group-title="电影" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201701/22/12/a0dbeb1ed6571326fe7bf837a44bfdb8_big.jpg",恐怖
-https://iptv.akri.top/douyu/96577
+http://192.168.2.170:35455/douyu/96577
 #EXTINF:-1 group-title="电影" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202109/4b690c611a944165bd43ba85b494dba0_big.jpg",僵尸
-https://iptv.akri.top/douyu/310926
+http://192.168.2.170:35455/douyu/310926
 #EXTINF:-1 group-title="电影" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201711/08/18/acd735bbe5d2f6a7875cce5a910d3101_big.jpg",特辑
-https://iptv.akri.top/douyu/3637778
-#EXTINF:-1 group-title="狼人杀" tvg-logo="https://p6.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_oUNCoSKABJAzJAMtAAAe7btnAKAfBMhygEsIkd.jpeg?from=3067671334",老天天狼人杀
-https://iptv.akri.top/douyin/136047875227
-#EXTINF:-1 group-title="狼人杀" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_oMqrDfzBeAA0RIAuGthExNCARASgtEAqVyt1CC.jpeg?from=3067671334",迷雾之夜狼人杀
-https://iptv.akri.top/douyin/410804968505
-#EXTINF:-1 group-title="狼人杀" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_7693ab01af024a02ea766070ecd54349.jpeg?from=3067671334",华山论剑狼人杀
-https://iptv.akri.top/douyin/708363794392
-#EXTINF:-1 group-title="狼人杀" tvg-logo="https://huyaimg.msstatic.com/avatar/1055/73/1337bd6a67994e337f709f409cbf74_180_135.jpg?1511751164&475859",GODLIE
-https://iptv.akri.top/huya/14342778?cdn=alicdn
-#EXTINF:-1 group-title="炉石传说" tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201605/18/22f0631caf6f62bd3ce7aea2a6b31723_big.jpg",啦啦啦不是狗狗狗
-https://iptv.akri.top/douyu/633019
-#EXTINF:-1 group-title="炉石传说" tvg-logo="https://huyaimg.msstatic.com/avatar/1019/ee/ffabf13c4cc3effa9398c2859ac9c8_180_135.jpg?1640700311&475859",瓦莉拉
-https://iptv.akri.top/huya/100270?cdn=alicdn
+http://192.168.2.170:35455/douyu/3637778
 #EXTINF:-1 group-title="炉石传说" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_81cd2f29c7e545f300c355c43134ca15.jpeg?from=3067671334",yimon
-https://iptv.akri.top/douyin/109638098345
-#EXTINF:-1 group-title="炉石传说" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_b77d6d41219f59fb3281cbf76037294f.jpeg?from=3067671334",绝世小彩虹
-https://iptv.akri.top/douyin/864330463533
-#EXTINF:-1 group-title="炉石传说" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_00dd1a0749874ac78c4a9398a2226921.jpeg?from=3067671334",小瞎眼
-https://iptv.akri.top/douyin/400513559050
-#EXTINF:-1 group-title="炉石传说" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_759be9977828c838425567d2e6ad8317.jpeg?from=3067671334",大熊
-https://iptv.akri.top/douyin/74652964111
+http://192.168.2.170:35455/douyin/109638098345
+#EXTINF:-1 group-title="炉石传说" tvg-logo="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_2c5a3925607f44828292e0a4b07636d1~c5_300x300.jpeg?from=2956013662",青梅泡泡
+http://192.168.2.170:35455/douyin/79822454
+#EXTINF:-1 group-title="炉石传说" tvg-logo="https://p3-pc.douyinpic.com/img/aweme-avatar/mosaic-legacy_2f7d600058889f28944cf~c5_300x300.jpeg?from=2956013662",安德罗妮的学徒
+http://192.168.2.170:35455/douyin/Aquleland214
+#EXTINF:-1 group-title="炉石传说" tvg-logo="https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_23fb00002e9f245fef26c.jpeg?from=2956013662",恶魔苹果
+http://192.168.2.170:35455/douyin/911502424
+#EXTINF:-1 group-title="金铲铲" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a8b5db2ca10c5f3beebbe1339e3ff223.jpeg?from=3067671334",金铲铲小叶
+http://192.168.2.170:35455/douyin/yeziyYX
+#EXTINF:-1 group-title="金铲铲" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_7e97c2818ff345839ae9bced3e1f6fe1.jpeg?from=3067671334",小猪是超级大帅Bi
+http://192.168.2.170:35455/douyin/dyxz168000
+#EXTINF:-1 group-title="金铲铲" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_o02fADtElAFbAwAfAgrRKCm0uD900AMbEIPCAC.jpeg?from=3067671334",初心
+http://192.168.2.170:35455/douyin/64843613100
