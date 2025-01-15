@@ -73,6 +73,10 @@ http://192.168.2.170:35455/douyu/96577
 http://192.168.2.170:35455/douyu/310926
 #EXTINF:-1 group-title="电影" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201711/08/18/acd735bbe5d2f6a7875cce5a910d3101_big.jpg",特辑
 http://192.168.2.170:35455/douyu/3637778
+#EXTINF:-1 group-title="炉石传说" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_fe717d0783ea76f136bcfed39ed5b450.jpeg?from=3067671334",炉石小狼
+http://192.168.2.170:35455/douyin/765006140559
+#EXTINF:-1 group-title="炉石传说" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_5f65efb3427be0f0f4e69b9e16938feb.jpeg?from=3067671334",211
+http://192.168.2.170:35455/douyin/195143794691
 #EXTINF:-1 group-title="炉石传说" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_81cd2f29c7e545f300c355c43134ca15.jpeg?from=3067671334",yimon
 http://192.168.2.170:35455/douyin/109638098345
 #EXTINF:-1 group-title="炉石传说" tvg-logo="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_2c5a3925607f44828292e0a4b07636d1~c5_300x300.jpeg?from=2956013662",青梅泡泡
