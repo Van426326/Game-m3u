@@ -9,6 +9,10 @@ http://192.168.2.198:35455/douyu/310926
 http://192.168.2.198:35455/douyu/544590831076
 #EXTINF:-1 group-title="炉石传说" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_fe717d0783ea76f136bcfed39ed5b450.jpeg?from=3067671334",炉石小狼
 http://192.168.2.198:35455/douyin/765006140559
+#EXTINF:-1 group-title="炉石传说" tvg-logo="https://huyaimg.msstatic.com/avatar/1047/bc/bc06fb8973906c9c1292df49a49a18_180_135.jpg?486562",安德罗妮
+http://192.168.2.198:35455/huya/a16789?media=hls&cdn=alicdn
+#EXTINF:-1 group-title="炉石传说" tvg-logo="https://huyaimg.msstatic.com/avatar/1049/47/64035862bad7aa39ba8c83048fa0a1_180_135.jpg?1745895955&486562",郭枫荷
+http://192.168.2.198:35455/huya/139473?media=hls&cdn=alicdn
 #EXTINF:-1 group-title="炉石传说" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_5f65efb3427be0f0f4e69b9e16938feb.jpeg?from=3067671334",211
 http://192.168.2.198:35455/douyin/195143794691
 #EXTINF:-1 group-title="炉石传说" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_81cd2f29c7e545f300c355c43134ca15.jpeg?from=3067671334",yimon
