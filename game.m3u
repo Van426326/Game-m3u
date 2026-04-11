@@ -1,34 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="DNF" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201806/dcf934838aefc6042e22dcd9e27cb776_big.jpg",武神59
-http://192.168.2.198:35455/douyu/5168755
-#EXTINF:-1 group-title="DNF" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_67c92a3df003f9d85a2e1086498033d3.jpeg?from=3067671334",温柔
-http://192.168.2.198:35455/douyin/117186899183
-#EXTINF:-1 group-title="电影" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202109/4b690c611a944165bd43ba85b494dba0_big.jpg",僵尸
-http://192.168.2.198:35455/douyu/310926
-#EXTINF:-1 group-title="英雄联盟" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_osBGIEIGAHeBeM6A0OtGBPIQYALjJ7ARBPEeMA.jpeg?from=3067671334",乱斗教授
-http://192.168.2.198:35455/douyu/544590831076
-#EXTINF:-1 group-title="炉石传说" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_fe717d0783ea76f136bcfed39ed5b450.jpeg?from=3067671334",炉石小狼
-http://192.168.2.198:35455/douyin/765006140559
-#EXTINF:-1 group-title="炉石传说" tvg-logo="https://huyaimg.msstatic.com/avatar/1047/bc/bc06fb8973906c9c1292df49a49a18_180_135.jpg?486562",安德罗妮
-http://192.168.2.198:35455/huya/a16789?media=hls&cdn=alicdn
-#EXTINF:-1 group-title="炉石传说" tvg-logo="https://huyaimg.msstatic.com/avatar/1049/47/64035862bad7aa39ba8c83048fa0a1_180_135.jpg?1745895955&486562",郭枫荷
-http://192.168.2.198:35455/huya/139473?media=hls&cdn=alicdn
-#EXTINF:-1 group-title="炉石传说" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_5f65efb3427be0f0f4e69b9e16938feb.jpeg?from=3067671334",211
-http://192.168.2.198:35455/douyin/195143794691
-#EXTINF:-1 group-title="炉石传说" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_81cd2f29c7e545f300c355c43134ca15.jpeg?from=3067671334",yimon
-http://192.168.2.198:35455/douyin/109638098345
-#EXTINF:-1 group-title="炉石传说" tvg-logo="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_2c5a3925607f44828292e0a4b07636d1~c5_300x300.jpeg?from=2956013662",青梅泡泡
-http://192.168.2.198:35455/douyin/79822454
-#EXTINF:-1 group-title="炉石传说" tvg-logo="https://p3-pc.douyinpic.com/img/aweme-avatar/mosaic-legacy_2f7d600058889f28944cf~c5_300x300.jpeg?from=2956013662",安德罗妮的学徒
-http://192.168.2.198:35455/douyin/86800333789
-#EXTINF:-1 group-title="炉石传说" tvg-logo="https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_23fb00002e9f245fef26c.jpeg?from=2956013662",恶魔苹果
-http://192.168.2.198:35455/douyin/911502424
-#EXTINF:-1 group-title="炉石传说" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_oM35ENCe9nAnPuA1ATeJA9lADABgpC97IYbitD.jpeg?from=3067671334",安德罗妮的学妹
-http://192.168.2.198:35455/douyin/796794251979
-#EXTINF:-1 group-title="炉石传说" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_oYPApfBoUgdeB6AIAL8iA7CDLAFiES0h0gZyAA.jpeg?from=3067671334",天真
-http://192.168.2.198:35455/douyin/503202000987
-#EXTINF:-1 group-title="炉石传说" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_71579532879343889eebb91557d08b16.jpeg?from=3067671334",炉石-好运luck
-http://192.168.2.198:35455/douyin/917138168289
 #EXTINF:-1 group-title="羽毛球" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_278c96e1258c0bf40d1ac98a2161353a.jpeg?from=3067671334",羽你共赏
 http://192.168.2.198:35455/douyin/135741932476
 #EXTINF:-1 group-title="羽毛球" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_oUYdAAGE9eWfBCBGIwAxOQAIIALoboDieBQEFE.jpeg?from=3067671334",巅峰对决·羽界风云
@@ -41,6 +11,5 @@ http://192.168.2.198:35455/douyin/747121476447
 http://192.168.2.198:35455/douyin/200581197296
 #EXTINF:-1 group-title="羽毛球" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_ed4dcb47392c4fdab347b3c05f5f13c8.jpeg?from=3067671334",林丹杯
 http://192.168.2.198:35455/douyin/93900962804
-#EXTINF:-1 group-title="苏超" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-c9aec8xkvj_aedf9a172efe4143827161bb17d4835c.jpeg?from=3067671334",江苏体育
-http://192.168.2.198:35455/douyin/128297378084
+
 
