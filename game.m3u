@@ -2,3 +2,5 @@
 #EXTINF:-1 group-title="羽毛球" tvg-logo="https://huyaimg.msstatic.com/avatar/1051/b5/d854f43b42ac1ba20daba03073a579_180_135.jpg?1752489751&493304",虎牙亚锦赛2026
 http://192.168.2.198:35455/huya/30805928?cdn=alicdn
 
+#EXTINF:-1 group-title="苏超" tvg-logo="https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/media/avatar-live.487a8053c4aa9a75.png",苏超2026
+http://192.168.2.198:35455/douyin/rid/446424098532
