@@ -1,15 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="羽毛球" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_278c96e1258c0bf40d1ac98a2161353a.jpeg?from=3067671334",羽你共赏
-http://192.168.2.198:35455/douyin/135741932476
-#EXTINF:-1 group-title="羽毛球" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_oUYdAAGE9eWfBCBGIwAxOQAIIALoboDieBQEFE.jpeg?from=3067671334",巅峰对决·羽界风云
-http://192.168.2.198:35455/douyin/607409885233
-#EXTINF:-1 group-title="羽毛球" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_74de4fb6af1dcd949fbd8a8a4d23b4c8.jpeg?from=3067671334",羽球时光
-http://192.168.2.198:35455/douyin/49650987608
-#EXTINF:-1 group-title="羽毛球" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_owfQAE1AfQ5iIAEAeNJFnBiDEvAQMQ7ztjaAAB.jpeg?from=3067671334",体育赛事
-http://192.168.2.198:35455/douyin/747121476447
-#EXTINF:-1 group-title="羽毛球" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_owQPANABGCBIPIjE2AAM2iY5xATATiEaAJKA4.jpeg?from=3067671334",羽乐至上
-http://192.168.2.198:35455/douyin/200581197296
-#EXTINF:-1 group-title="羽毛球" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_ed4dcb47392c4fdab347b3c05f5f13c8.jpeg?from=3067671334",林丹杯
-http://192.168.2.198:35455/douyin/93900962804
-
+#EXTINF:-1 group-title="羽毛球" tvg-logo="https://huyaimg.msstatic.com/avatar/1051/b5/d854f43b42ac1ba20daba03073a579_180_135.jpg?1752489751&493304",虎牙亚锦赛2026
+http://192.168.2.198:35455/huya/30805928?cdn=alicdn
 
