@@ -14,6 +14,9 @@ http://192.168.2.198:35455/douyin/rid/578115616857
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_3a991f15412a46f12590d71e647c7445.jpeg?from=3067671334",温柔男枪
 http://192.168.2.198:35455/douyin/rid/533593689308
 
+#EXTINF:-1 group-title="街霸6" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_oItYCvAPE7ikx7CABAh4dpipB2AM2LRACIaaB.jpeg?from=3067671334",面面.
+http://192.168.2.198:35455/douyin/rid/975644183442
+
 #EXTINF:-1 group-title="云顶之弈" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/3dcec943761543ada419b5c845ebe04a_big.jpg",阿涛皎月Carry
 http://192.168.2.198:35455/douyu/6560603
 
