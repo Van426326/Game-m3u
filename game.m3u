@@ -13,3 +13,6 @@ http://192.168.2.198:35455/huya/257085?cdn=alicdn
 
 #EXTINF:-1 group-title="云顶之弈" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/3dcec943761543ada419b5c845ebe04a_big.jpg",阿涛皎月Carry
 http://192.168.2.198:35455/douyu/6560603
+
+#EXTINF:-1 group-title="英雄联盟" tvg-logo="https://i0.hdslb.com/bfs/face/9eb62c27dd7dacc0ea57a725507c4b1f1f02bfa3.jpg",阳光男孩小丑熊
+http://192.168.2.198:35455/bilibili/22907643
