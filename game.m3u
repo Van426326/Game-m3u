@@ -48,3 +48,6 @@ http://192.168.2.198:35455/douyu/6560603
 
 #EXTINF:-1 group-title="英雄联盟" tvg-logo="https://i0.hdslb.com/bfs/face/9eb62c27dd7dacc0ea57a725507c4b1f1f02bfa3.jpg",阳光男孩小丑熊
 http://192.168.2.198:35455/bilibili/22907643
+
+#EXTINF:-1 group-title="英雄联盟" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_25691143a55d8a7c6d5e50513b77979a.jpeg",鱼玄机
+http://192.168.2.198:35455/douyin/rid/181705073870
